@@ -1,5 +1,5 @@
 # Iterator Drill: Reduce
-
+ 
 ## Learning Goals
 
 * Learn how the `reduce()` method works
